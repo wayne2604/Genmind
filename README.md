@@ -130,4 +130,4 @@ app/src/main/
 ---
 
 ### 👤 Author
-**KyRhetTeng** — Thesis Project
+**Wayne** — [github.com/wayne2604](https://github.com/wayne2604)
