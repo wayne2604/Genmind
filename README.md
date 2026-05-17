@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=1000&color=0A5654&center=true&vCenter=true&width=900&lines=🧬+Gen-MIND+-+Mendelian+Inheritance+Learning+App" alt="Title" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=1000&color=F7F7F7&center=true&vCenter=true&width=900&lines=🧬+TGen-MIND+-+Mendelian+Inheritance+Learning+App" alt="Title" />
 </div>
 
 An interactive Android educational app designed to teach Mendelian Inheritance concepts through structured lessons, engaging quizzes, and progress tracking. Built with Kotlin and Jetpack Compose, and powered by Firebase for cloud-based authentication and progress storage.
