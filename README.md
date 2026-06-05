@@ -93,19 +93,36 @@ app/src/main/
 
 ### 📱 Screens Overview
 
-| Screen | Description |
-|--------|-------------|
-| Welcome | Entry point with Login, Sign Up, and Guest options |
-| Login | Email/password login with password reset |
-| Sign Up | New account creation |
-| Pretest | 5-question quiz before lessons start |
-| Homepage | Lesson map showing progress and unlock status |
-| Lesson 1–10 | Scrollable lesson content with images |
-| Crossword | Vocabulary fill-in quiz (Lesson 4) |
-| Punnett Square | Genetic cross quiz with 2 questions (Lesson 9) |
-| Assessment Quiz | 10-item MCQ with score display (Lesson 10) |
-| Achievements | Progress bars for lessons and quizzes |
-| Tasks | Lesson completion checklist |
+| Screen | Description | Screenshot Link |
+|--------|-------------|-----------------|
+| Welcome | Entry point with Login, Sign Up, and Guest options | [View Screenshot](screenshots/welcome.jpg) |
+| Login | Email/password login with password reset | [View Screenshot](screenshots/login.jpg) |
+| Sign Up | New account creation | [View Screenshot](screenshots/signup.jpg) |
+| Pretest | 5-question quiz before lessons start | - |
+| Homepage | Lesson map showing progress and unlock status | [View Screenshot](screenshots/homepage.jpg) |
+| Lesson 1–10 | Scrollable lesson content with images | [View Screenshot](screenshots/lesson.jpg) |
+| Crossword | Vocabulary fill-in quiz (Lesson 4) | - |
+| Punnett Square | Genetic cross quiz with 2 questions (Lesson 9) | - |
+| Assessment Quiz | 10-item MCQ with score display (Lesson 10) | - |
+| Achievements | Progress bars for lessons and quizzes | [View Screenshot](screenshots/achievements.jpg) |
+| Tasks | Lesson completion checklist | [View Screenshot](screenshots/tasks.jpg) |
+
+---
+
+### 📸 App UI Screenshots
+
+<p align="center">
+  <img src="screenshots/welcome.jpg" width="24%" alt="Welcome Screen" />
+  <img src="screenshots/login.jpg" width="24%" alt="Login Screen" />
+  <img src="screenshots/signup.jpg" width="24%" alt="Sign Up Screen" />
+  <img src="screenshots/homepage.jpg" width="24%" alt="Homepage Map Screen" />
+</p>
+<br>
+<p align="center">
+  <img src="screenshots/lesson.jpg" width="24%" alt="Lesson Screen" />
+  <img src="screenshots/tasks.jpg" width="24%" alt="Tasks Screen" />
+  <img src="screenshots/achievements.jpg" width="24%" alt="Achievements Screen" />
+</p>
 
 ---
 
